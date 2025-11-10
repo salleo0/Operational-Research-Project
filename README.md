@@ -1,6 +1,6 @@
-# **Operational Research Project: NewSatellites S.p.A.**
+# **Operational Research Project**
 
-This repository contains the MATLAB implementation for a supply chain design project. As consultants for **NewSatellites S.p.A.**, a satellite production and launch company, we have been tasked with designing a new supply chain by deciding where to locate component production centers and assembly centers.
+This repository contains the MATLAB implementation for a supply chain design project. As consultants for **NewSatellites S.p.A.**, a dummy satellite production and launch company, we have been tasked with designing a new supply chain by deciding where to locate component production centers and assembly centers.
 
 ## **1\. Problem Description**
 
